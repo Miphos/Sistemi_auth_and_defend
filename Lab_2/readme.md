@@ -6,7 +6,7 @@
 ## Ход работы
 1. Собрал сетевой трафик с помощью Wireshark
 
-![](https://github.com/Miphos/Sistemi_auth_and_defend/blob/main/Lab2/screenshots/trafic.jpg)
+![](https://github.com/Miphos/Sistemi_auth_and_defend/blob/main/Lab_2/screenshots/trafic.jpg))
 
 2. С помощью утилиты Zeek выделяю метаинформацию сетевого трафика (http.log / dns.log)
 
