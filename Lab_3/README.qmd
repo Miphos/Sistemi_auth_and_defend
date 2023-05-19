@@ -24,23 +24,23 @@
     ```
     docker-compose up -d
     ```
-    ![](./screenshots/1.png)
+    ![](./Screenshots/1.png)
 
 3. Переходим на `localhost:5061` и авторизируемся 
 
-    ![](./screenshots/2.png)
+    ![](./Screenshots/2.png)
 
 4. Проверям, что установленны все средства для сбора информации из файлов журналов и сбора аналитики трафика
 
-    ![](./screenshots/3.png)
+    ![](./Screenshots/3.png)
 
 5. Создаем новый data view для filebeat
 
-    ![](./screenshots/4.png)
+    ![](./Screenshots/4.png)
 
 6. Создаем новый data view для packetbeat
 
-    ![](./screenshots/5.png)
+    ![](./Screenshots/5.png)
 
 ## Оценка результата
 
