@@ -23,30 +23,44 @@ editor: visual
 
 1. Получить версию ядра можно с помощью команды: uname -r
 ```
+{bash}
+
 uname -r
 ```
+
 2. Полные сведения о ядре: uname -a
 ```
+{bash}
+
 uname -a
 ```
 
+
 3. Используемый дистрибутив: lsb_release -a
 ```
+{bash}
+
 lsb_release -a
 ```
 
 4. Информация о процессоре: cat /proc/cpuinfo
 ```
+{bash}
+
 cat /proc/cpuinfo
 ```
 
+
 5. Модель процессора: cat /proc/cpuinfo \| grep "model name"
 ```
+{bash}
 
 cat /proc/cpuinfo \| grep "model name"
 ```
+
 6. Скрытые файлы: ls -a
 ```
+{bash}
 
 ls -a
 ```
