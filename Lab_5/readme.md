@@ -10,7 +10,7 @@
    * Freeplane - это бесплатное программное приложение с открытым исходным кодом для создания ментальных карт (диаграмм связей между идеями) и электронных схем.
 4. Результат работы.
 
-![](https://github.com/Miphos/Sistemi_auth_and_defend/tree/main/Lab_5/screens)
+![](https://github.com/Miphos/Sistemi_auth_and_defend/blob/main/Lab_5/screens/mindmap.png)
 
 
 ## Оценка результата
